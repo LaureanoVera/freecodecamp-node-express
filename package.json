@@ -4,7 +4,8 @@
   "description": "learn node and express with freecodecamp",
   "main": "1-intro.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
     "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.8"
   }
 }
