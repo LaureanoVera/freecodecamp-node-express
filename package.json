@@ -18,6 +18,8 @@
   "homepage": "https://github.com/LaureanoVera/freecodecamp-node-express#readme",
   "dependencies": {
     "bootstrap": "^5.0.2",
-    "lodash": "^4.17.21"
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+    "popper.js": "^1.16.1"
   }
 }
